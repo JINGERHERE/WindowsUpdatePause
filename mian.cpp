@@ -9,7 +9,7 @@ const char* VALUE_NAME = "FlightSettingsMaxPauseDays";
 
 void printMenu() {
     cout << "================================" << endl;
-    cout << "   Windows 更新暂停时间工具（X64）" << endl;
+    cout << "   Windows 更新暂停时间工具" << endl;
     cout << "================================" << endl;
     cout << "1. 设置/修改暂停天数" << endl;
     cout << "2. 清除设置 (恢复系统默认)" << endl;
